@@ -31,7 +31,7 @@ Explored global Spotify track data using SQL for slicing and Python (pandas, sea
 
 ## 📂 Dataset
 
-- Spotify Dataset used in this project was downloaded from [Kaggle](https://www.kaggle.com/)  
-- Dataset not uploaded due to GitHub file size limits (>25MB)
-- File used: `data.csv` (169,909 tracks from 1921–2020)
-*Note: Dataset not included due to size limits. See Kaggle link above.*
+- Dataset: [Spotify Track Dataset (169K+ Songs)](https://github.com/ddhartma/Spotify-dataset-analysis-160kTracks-1921-2020)
+- Contains track-level audio features, artist info, popularity, mood (valence), and more from 1921–2020.
+- Note: CSV not uploaded here due to GitHub's 25MB file limit.
+
